@@ -13,7 +13,7 @@ using System;
 
 namespace RibbonLib.Controls
 {
-    public class RibbonCheckBox : BaseRibbonControl,
+       public class RibbonCheckBox : BaseRibbonControl,
         IBooleanValuePropertyProvider, 
         IEnabledPropertiesProvider,
         IKeytipPropertiesProvider,
